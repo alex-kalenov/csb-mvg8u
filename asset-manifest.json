@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alex-kalenov.github.io/csb-mvg8u/static/css/main.d3806709.chunk.css",
+    "main.js": "https://alex-kalenov.github.io/csb-mvg8u/static/js/main.64b7559e.chunk.js",
+    "main.js.map": "https://alex-kalenov.github.io/csb-mvg8u/static/js/main.64b7559e.chunk.js.map",
+    "runtime-main.js": "https://alex-kalenov.github.io/csb-mvg8u/static/js/runtime-main.d04dd16b.js",
+    "runtime-main.js.map": "https://alex-kalenov.github.io/csb-mvg8u/static/js/runtime-main.d04dd16b.js.map",
+    "static/js/2.e96d40d1.chunk.js": "https://alex-kalenov.github.io/csb-mvg8u/static/js/2.e96d40d1.chunk.js",
+    "static/js/2.e96d40d1.chunk.js.map": "https://alex-kalenov.github.io/csb-mvg8u/static/js/2.e96d40d1.chunk.js.map",
+    "index.html": "https://alex-kalenov.github.io/csb-mvg8u/index.html",
+    "static/css/main.d3806709.chunk.css.map": "https://alex-kalenov.github.io/csb-mvg8u/static/css/main.d3806709.chunk.css.map",
+    "static/js/2.e96d40d1.chunk.js.LICENSE.txt": "https://alex-kalenov.github.io/csb-mvg8u/static/js/2.e96d40d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04dd16b.js",
+    "static/js/2.e96d40d1.chunk.js",
+    "static/css/main.d3806709.chunk.css",
+    "static/js/main.64b7559e.chunk.js"
+  ]
+}
